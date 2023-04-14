@@ -13,6 +13,6 @@ Installation instructions:
 - Click the 'Preferences -> Browse Packages…' menu
 - It will open a folder called 'Packages', within the app configuration directory
 - Go up a folder level and then into the 'Installed Packages' folder
-- Copy the file 'PIC.sublime-package' into it
+- Copy the zip compressed file 'PIC.sublime-package' into it
 - Restart Sublime Text
 - Look for 'PIC Assembly' in the 'View -> Syntax' menu
