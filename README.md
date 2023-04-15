@@ -3,7 +3,7 @@ pic-asm-highlight
 
 Sublime Text Syntax Highlight for PIC Assembly.
 
-This package adds basic syntax highlighting when working with PIC assembly files for the pic12* microcontroler and other families.
+This package adds basic syntax highlighting when working with PIC assembly files for the pic12* microcontroller and other families.
 
 
 Installation instructions:
